@@ -1,2 +1,2 @@
 # test
-test repo
+test repo for ruby on rails sample project
